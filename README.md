@@ -1,7 +1,7 @@
 # [Content Management System - CMS](https://github.com/goncaloperes/Project-CodeIgniter-CMS)
-![GitHub Watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&logo=github&label=Watch)
-![GitHub Stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&logo=github&label=Star)
-![GitHub Forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&logo=github&label=Fork)
+[![GitHub Watches](https://img.shields.io/github/watchers/goncaloperes/Project-CodeIgniter-CMS.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/goncaloperes/Project-CodeIgniter-CMS/watchers)
+[![GitHub Starts](https://img.shields.io/github/stars/goncaloperes/Project-CodeIgniter-CMS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goncaloperes/Project-CodeIgniter-CMS/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/goncaloperes/Project-CodeIgniter-CMS.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/goncaloperes/Project-CodeIgniter-CMS/network)
 
 ![](https://img.shields.io/badge/Version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/License-MIT-green.svg)
