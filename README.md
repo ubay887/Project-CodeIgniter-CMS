@@ -1,7 +1,10 @@
 # [Content Management System - CMS](https://github.com/goncaloperes/Project-CodeIgniter-CMS)
+![GitHub Watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&logo=github&label=Watch)
+![GitHub Stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&logo=github&label=Star)
+![GitHub Forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&logo=github&label=Fork)
+
 ![](https://img.shields.io/badge/Version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/License-MIT-green.svg)
-
 <table>
 <tr>
 <td>
