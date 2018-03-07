@@ -1,4 +1,6 @@
 # [Content Management System - CMS](https://github.com/goncaloperes/Project-CodeIgniter-CMS)
+![](https://img.shields.io/badge/Version-1.0-blue.svg) 
+![](https://img.shields.io/badge/License-MIT-green.svg)
 
 <table>
 <tr>
@@ -9,10 +11,6 @@ Codeigniter based application to managing website content (Content Management Sy
 </td>
 </tr>
 </table>
-
-### Version
-1.0
-
 
 ---
 
